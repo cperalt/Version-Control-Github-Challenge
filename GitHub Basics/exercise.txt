@@ -1,0 +1,17 @@
+
+1. Explain what the terminal is in your own words.
+
+    The terminal is a powerful tool used to directly communicate with the computer. Creating files, changing directories, removing files, and git commands are some of the commands
+    available to use. Anything that you would normally use your computer for can be done in the terminal. Its is more efficient as you are directly interacting with the computer and
+    you do not have to navigate through multiple windows like you would do for example in finder on MacOs. The terminal does not have a graphical user interphase and instead is a command
+    line interphase meaning you have to type commands to execute actions. One must proceed with caution as commands can be very powerful and you could accidentally destroy important
+    components of your computer. For example removing the user path can have grave consequences.
+
+2. What is the major difference between Git and Github?
+
+    In my own words, Github is a service that allows for developer collaboration. Git is the software installed in most machines that is a version control system.
+
+3. What are the steps to fork a Github Repository?
+
+    First you go to whatever Repo you want to fork and select the fork button. Doing this will add a copy of the repo to your github. Next you have to clone the forked repo to your
+    local machine. In your terminal you type `git clone` and you copy the ssh url that appears when you click code in that repo. This should bring down that repo to your local machine.
